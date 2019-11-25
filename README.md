@@ -4,15 +4,15 @@ Repository containing presentation + code for my talk in the [19º Node.js Meetu
 
 ## abstract
 
-Title: Artificial intelligence and data science in the JavScript ecosystem
-By: Jayme Anchante
-Description: What is artificial intelligence. What is the difference between machine learning, deep learning. Main Node.js libraries: tensorflow, brainjs, scikit-learn. Livecoding training an algorithm in JavaScript.
+Title: Artificial intelligence and data science in the JavaScript ecosystem  
+By: Jayme Anchante  
+Description: What is artificial intelligence. What is the difference between machine learning, deep learning. Main Node.js libraries: tensorflow, brainjs, scikit-learn. Livecoding training an algorithm in JavaScript
 
 ## resumo
 
-Título: Inteligência artificial e ciência de dados no ecossistema JavaScript
-Por: Jayme Anchante
-Descrição: O que é inteligência artificial. Qual a diferença para aprendizado de máquina, aprendizado profundo. Principais bibliotecas de nodejs: tensorflow, brain, scikit-learn entre outros. Livecoding treinando um algoritmo em JavaScript.
+Título: Inteligência artificial e ciência de dados no ecossistema JavaScript  
+Por: Jayme Anchante  
+Descrição: O que é inteligência artificial. Qual a diferença para aprendizado de máquina, aprendizado profundo. Principais bibliotecas de nodejs: tensorflow, brain, scikit-learn entre outros. Livecoding treinando um algoritmo em JavaScript
 
 # presentation
 
