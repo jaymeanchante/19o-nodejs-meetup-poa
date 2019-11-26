@@ -29,3 +29,9 @@ cd .. &&
 rm -r sent &&
 sent presentation
 ```
+
+# case
+
+The [iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) is a canonical dataset which includes 150 samples containing 50 samples of each of the 3 classes: setosa, virginica e versicolor. This is a simple implementation containing a train pipeline in [Python](https://www.python.org/) which transpiles a JavaScript model file, which is then used by the frontend. The code is hosted [here](https://github.com/jayme-anchante/iris-prediction)
+
+The presentation explaining the model inner workings can be found [here](https://github.com/jayme-anchante/iris-prediction)
